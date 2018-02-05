@@ -1,5 +1,10 @@
 {
-"name":"John Doe",
-"employee_id" : "EM001103",
-"ticket_number" : "TKT349EM01P03"
+  "profile":
+  {
+    "name":"John Doe",
+    "employee_id" : "EM001103",
+    "ticket_number" : "TKT349EM01P03"
+  },
+  "others":
+  [34,6,78]
 }
